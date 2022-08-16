@@ -156,7 +156,7 @@ strong{
 .links{
   display: flex;
   position: absolute;
-  right: 10%;
+  right: 15%;
   width: 40rem;
 }
 
@@ -165,7 +165,7 @@ strong{
   flex-direction: row;
   list-style-type: none;
   color: #dddddd;
-  margin-right: 5rem;
+  margin-right: 2rem;
 }
 
 .links li{
